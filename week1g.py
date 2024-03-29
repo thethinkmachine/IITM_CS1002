@@ -1,0 +1,7 @@
+n = str(input())
+a = int(n[0])
+b = int(n[1])
+c = int(n[2])
+d = int(n[3])
+e = int(n[4])
+print(a + b + c + d + e)
